@@ -1,4 +1,4 @@
-# Area of triangle
+#  Area of triangle
 Area of triangle
 
 Example 1:
